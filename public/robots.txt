@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beltofriss.github.io/oux/sitemap.xml
