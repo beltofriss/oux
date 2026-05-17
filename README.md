@@ -8,9 +8,9 @@
 
 为了保障您的资金安全，防范钓鱼网站，请认准以下经官方验证的绿色安全访问通道：
 
-*   **【推荐通道】欧易官网国内最新Web访问入口：** [https://ouyicex.com](https://ouyicex.com)
-*   **【备用通道】欧意OKX交易所Web备用入口：** [https://ouxcex.com](https://ouxcex.com)
-*   **【移动专属】欧易全球手机Web自适应入口：** [https://yiouapp.com](https://yiouapp.com)
+*   **欧易官网国内最新Web访问入口：** [https://ouyicex.com](https://ouyicex.com)
+*   **欧意OKX交易所Web下载中心：** [https://ouxcex.com](https://ouxcex.com)
+*   **欧易OKX全球手机APP自适应入口：** [https://yiouapp.com](https://yiouapp.com)
 
 > **💡 安全提示：** 建议将上述链接加入浏览器收藏夹，以便在网络环境波动或地址更新时，能够第一时间安全、平稳地访问欧易交易所。
 
