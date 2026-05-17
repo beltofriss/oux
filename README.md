@@ -52,8 +52,5 @@
 *   **Web3 专属钱包**：内置 OKX Web3 钱包，一键直达 NFT 市场、DApp 链上世界及跨链 Swap，打造一站式去中心化金融体验。
 
 ---
-
-> 🔗 **友情链接与外链合作：** 
-> *   [欧易官网](https://ouyicex.com)
-> *   [欧意交易所](https://ouxcex.com)
-> *   [OKX APP下载](https://yiouapp.com)
+**联系方式**
+contact@ouxcex.com
