@@ -4,61 +4,288 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex,follow" />
-    <title>404 - 页面不存在 | 欧易下载入口</title>
+    <meta
+      name="description"
+      content="页面不存在。可继续访问欧易OKX入口、网页版、安卓下载、电脑版、注册开户和新手页面。"
+    />
+    <title>404 - 页面不存在 | 欧易OKX入口</title>
     <style>
+      * {
+        box-sizing: border-box;
+      }
+
       body {
         margin: 0;
-        font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+        font-family:
+          "PingFang SC", "Microsoft YaHei", "Noto Sans SC", system-ui,
+          sans-serif;
         background: #f8fafc;
         color: #0f172a;
       }
+
       .wrap {
         min-height: 100vh;
+        padding: 48px 20px;
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 24px;
       }
+
       .card {
         width: 100%;
-        max-width: 560px;
+        max-width: 880px;
         background: #fff;
         border: 1px solid #e2e8f0;
-        border-radius: 24px;
-        padding: 32px;
-        text-align: center;
+        border-radius: 28px;
+        padding: 40px;
+        box-shadow: 0 18px 45px rgba(15, 23, 42, 0.05);
       }
-      h1 {
-        margin: 0 0 12px;
-        font-size: 48px;
-        line-height: 1.1;
-      }
-      p {
-        margin: 0 0 24px;
-        color: #475569;
-        line-height: 1.7;
-      }
-      a {
-        display: inline-block;
-        background: #2563eb;
-        color: #fff;
-        text-decoration: none;
-        padding: 12px 22px;
-        border-radius: 12px;
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        color: #2563eb;
+        font-size: 14px;
         font-weight: 700;
+        letter-spacing: 0.02em;
       }
-      a:hover {
-        background: #1d4ed8;
+
+      .mark {
+        width: 44px;
+        height: 44px;
+        border-radius: 12px;
+        background: #020617;
+        color: #fff;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .mark svg {
+        width: 25px;
+        height: 25px;
+      }
+
+      h1 {
+        margin: 28px 0 12px;
+        font-size: clamp(34px, 5vw, 56px);
+        line-height: 1.12;
+        letter-spacing: 0;
+      }
+
+      .lead {
+        max-width: 660px;
+        margin: 0;
+        color: #475569;
+        font-size: 16px;
+        line-height: 1.9;
+      }
+
+      .links {
+        margin-top: 28px;
+        padding: 20px;
+        border: 1px solid #e2e8f0;
+        border-radius: 20px;
+        background: #f8fafc;
+      }
+
+      h2 {
+        margin: 0 0 14px;
+        font-size: 18px;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .entry {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        border: 1px solid #e2e8f0;
+        border-radius: 14px;
+        background: #fff;
+        padding: 14px 16px;
+        font-size: 14px;
+        font-weight: 700;
+        color: #1e293b;
+      }
+
+      .entry:hover {
+        border-color: #bfdbfe;
+        color: #2563eb;
+        box-shadow: 0 10px 22px rgba(15, 23, 42, 0.06);
+      }
+
+      .hint {
+        margin: 18px 0 0;
+        color: #64748b;
+        font-size: 14px;
+        line-height: 1.8;
+      }
+
+      .related {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 24px;
+        padding-top: 20px;
+        border-top: 1px solid #f1f5f9;
+      }
+
+      .tag {
+        border: 1px solid #e2e8f0;
+        border-radius: 999px;
+        background: #fff;
+        padding: 6px 12px;
+        color: #64748b;
+        font-size: 12px;
+      }
+
+      @media (max-width: 640px) {
+        .wrap {
+          padding: 24px 14px;
+        }
+
+        .card {
+          padding: 26px;
+          border-radius: 22px;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
       }
     </style>
   </head>
   <body>
-    <div class="wrap">
-      <div class="card">
-        <h1>404</h1>
-        <p>页面不存在或链接已失效，请返回欧易下载入口继续访问。</p>
-        <a href="/oux/">返回首页</a>
-      </div>
-    </div>
+    <main class="wrap">
+      <section class="card">
+        <div class="brand">
+          <span class="mark" aria-hidden="true">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="M20 13c0 5-3.5 7.5-7.7 8.9a1 1 0 0 1-.6 0C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.2-2.7a1.2 1.2 0 0 1 1.6 0C14.5 3.8 17 5 19 5a1 1 0 0 1 1 1z"
+              />
+            </svg>
+          </span>
+          <span>404</span>
+        </div>
+
+        <h1 id="heading">页面不存在或链接已失效</h1>
+        <p class="lead" id="lead">
+          可以从常用入口继续访问欧易OKX下载、网页入口、注册开户和新手页面。
+        </p>
+
+        <div class="links">
+          <h2 id="section-title">常用入口</h2>
+          <div class="grid" id="entry-grid">
+            <a class="entry" href="/oux/">首页 <span>›</span></a>
+            <a class="entry" href="/oux/ouyi-xiazai/"
+              >欧易OKX入口 <span>›</span></a
+            >
+            <a class="entry" href="/oux/ouyi-web/">网页版入口 <span>›</span></a>
+            <a class="entry" href="/oux/ouyi-anzhuo/"
+              >安卓下载 <span>›</span></a
+            >
+            <a class="entry" href="/oux/ouyi-pc/">电脑版 <span>›</span></a>
+            <a class="entry" href="/oux/ouyi-zhuce/">注册开户 <span>›</span></a>
+            <a class="entry" href="/oux/ouyi-beginner/"
+              >新手入门 <span>›</span></a
+            >
+            <a class="entry" href="/oux/ouyi-jiaoyisuo/"
+              >欧易交易所介绍 <span>›</span></a
+            >
+          </div>
+        </div>
+
+        <p class="hint" id="hint">
+          如果是手动输入网址，请先检查拼写；如果是站内链接，可以回到入口页重新选择。
+        </p>
+
+        <div class="related" id="related">
+          <span class="tag">欧易</span>
+          <span class="tag">欧易OKX</span>
+          <span class="tag">OKX</span>
+          <span class="tag">欧易下载</span>
+          <span class="tag">欧易新手</span>
+        </div>
+      </section>
+    </main>
+
+    <script>
+      (function () {
+        var isHant = location.pathname.indexOf("/zh-hant") !== -1;
+        if (!isHant) return;
+
+        document.documentElement.lang = "zh-Hant";
+        document.title = "404 - 頁面不存在 | 歐易OKX入口";
+        document
+          .querySelector('meta[name="description"]')
+          .setAttribute(
+            "content",
+            "頁面不存在。可繼續訪問歐易OKX入口、網頁版、安卓下載、電腦版、註冊開戶和新手頁面。",
+          );
+
+        document.getElementById("heading").textContent =
+          "頁面不存在或連結已失效";
+        document.getElementById("lead").textContent =
+          "可以從常用入口繼續訪問歐易OKX下載、網頁入口、註冊開戶和新手頁面。";
+        document.getElementById("section-title").textContent = "常用入口";
+        document.getElementById("hint").textContent =
+          "如果是手動輸入網址，請先檢查拼寫；如果是站內連結，可以回到入口頁重新選擇。";
+
+        var links = [
+          ["首頁", "/oux/zh-hant/"],
+          ["歐易OKX入口", "/oux/zh-hant/ouyi-xiazai/"],
+          ["網頁版入口", "/oux/zh-hant/ouyi-web/"],
+          ["安卓下載", "/oux/zh-hant/ouyi-anzhuo/"],
+          ["電腦版", "/oux/zh-hant/ouyi-pc/"],
+          ["註冊開戶", "/oux/zh-hant/ouyi-zhuce/"],
+          ["新手入門", "/oux/zh-hant/ouyi-beginner/"],
+          ["歐易交易所介紹", "/oux/zh-hant/ouyi-jiaoyisuo/"],
+        ];
+
+        document.getElementById("entry-grid").innerHTML = links
+          .map(function (item) {
+            return (
+              '<a class="entry" href="' +
+              item[1] +
+              '">' +
+              item[0] +
+              " <span>›</span></a>"
+            );
+          })
+          .join("");
+
+        document.getElementById("related").innerHTML = [
+          "歐易",
+          "歐易OKX",
+          "OKX",
+          "歐易下載",
+          "歐易新手",
+        ]
+          .map(function (item) {
+            return '<span class="tag">' + item + "</span>";
+          })
+          .join("");
+      })();
+    </script>
   </body>
 </html>
