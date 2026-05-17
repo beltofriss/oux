@@ -885,8 +885,11 @@ export default function App() {
   const hansUrl = `${CANONICAL_ORIGIN}${buildPathForLocale(currentPath, "zh-Hans")}`;
   const hantUrl = `${CANONICAL_ORIGIN}${buildPathForLocale(currentPath, "zh-Hant")}`;
 
+  const beginnerSuffix = locale === "zh-Hant" ? " | 歐意OKX" : " | 欧意OKX";
   const metaTitle = isNotFound
     ? t("404 - 页面不存在 | 欧易下载入口")
+    : isBeginnerPage
+    ? `${pageData?.title}${beginnerSuffix}`
     : pageData?.title;
   const metaDescription = isNotFound
     ? t("您访问的页面不存在，请返回欧易下载入口继续浏览。")
