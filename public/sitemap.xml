@@ -2,205 +2,481 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://beltofriss.github.io/oux/</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-anzhuo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-anzhuo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/account-transfer</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-xiaomi/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/account-transfer</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-xiaomi/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/android-download-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-oppo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/android-download-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-oppo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/buy-first-coin</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-app/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/buy-first-coin</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-app/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/c2c-safe</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-ios/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/c2c-safe</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-ios/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/earn-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-pc/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/earn-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-pc/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/earn-live</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-web/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/earn-live</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-web/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/fee</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-jiaoyisuo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/fee</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-jiaoyisuo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/invite</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-xiazai/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/invite</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-xiazai/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/leverage-warning</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-honor/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/leverage-warning</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-honor/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/reward-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-samsung/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/reward-guide</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-samsung/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/security</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-quark/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/security</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-quark/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/simulate-trade</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-vivo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/simulate-trade</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-vivo/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/vs-ouyi</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-huawei/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/vs-ouyi</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-huawei/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/web3</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-oneplus/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/web3</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-oneplus/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/beginner/withdraw-faq</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/ouyi-realme/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://beltofriss.github.io/oux/zh-hant/beginner/withdraw-faq</loc>
-    <lastmod>2026-05-15T19:18:49.819Z</lastmod>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-realme/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-meizu/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-meizu/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-coolpad/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-coolpad/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-zhuce/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-zhuce/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-vs-bian/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-vs-bian/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/okb/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/okb/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-wallet/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-wallet/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-brand-names/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-brand-names/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/account-transfer/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/account-transfer/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/android-download-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/android-download-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/buy-first-coin/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/buy-first-coin/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/c2c-safe/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/c2c-safe/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/earn-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/earn-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/earn-live/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/earn-live/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/fee/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/fee/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/invite/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/invite/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/leverage-warning/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/leverage-warning/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/reward-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/reward-guide/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/security/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/security/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/simulate-trade/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/simulate-trade/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/vs-ouyi/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/vs-ouyi/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/web3/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/web3/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/ouyi-beginner/withdraw-faq/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://beltofriss.github.io/oux/zh-hant/ouyi-beginner/withdraw-faq/</loc>
+    <lastmod>2026-05-17T05:22:36.417Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>

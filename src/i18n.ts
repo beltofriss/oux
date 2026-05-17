@@ -30,7 +30,7 @@ export const stripLocalePrefix = (pathname: string, locale: Locale): string => {
 };
 
 export const buildPathForLocale = (pageId: string, locale: Locale): string => {
-  const localPath = pageId === 'home' ? '/' : `/${pageId}`;
+  const localPath = pageId === 'home' ? '/' : `/${pageId}/`;
   if (locale === 'zh-Hant') {
     return localPath === '/' ? HANT_PREFIX : `${HANT_PREFIX}${localPath}`;
   }

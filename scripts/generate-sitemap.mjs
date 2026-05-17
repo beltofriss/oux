@@ -28,11 +28,11 @@ function extractPageIds(source) {
 
 function buildUrl(base, id, locale) {
   if (locale === 'zh-Hant') {
-    if (id === 'home') return `${base}/zh-hant`;
-    return `${base}/zh-hant/${id}`;
+    if (id === 'home') return `${base}/zh-hant/`;
+    return `${base}/zh-hant/${id}/`;
   }
   if (id === 'home') return `${base}/`;
-  return `${base}/${id}`;
+  return `${base}/${id}/`;
 }
 
 function generateSitemap(base, ids) {
