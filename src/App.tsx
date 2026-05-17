@@ -1093,9 +1093,10 @@ export default function App() {
                         ).map((f, i) => {
                           const Icon = f.icon;
                           return (
-                            <div
+                            <button
                               key={i}
-                              className="card-shadow p-8 flex flex-col items-start group hover:-translate-y-1 transition-all duration-300"
+                              onClick={() => (f as any).navId && navigate((f as any).navId)}
+                              className={`card-shadow p-8 flex flex-col items-start group hover:-translate-y-1 transition-all duration-300 text-left w-full${(f as any).navId ? " cursor-pointer" : ""}`}
                             >
                               <div className="p-3 bg-blue-50 text-blue-600 rounded-xl mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
                                 <Icon size={24} />
@@ -1107,12 +1108,9 @@ export default function App() {
                                 {t(f.desc)}
                               </p>
                               {(f as any).navId ? (
-                                <button
-                                  onClick={() => navigate((f as any).navId)}
-                                  className="mt-auto flex items-center gap-2 text-blue-600 font-bold hover:gap-3 transition-all"
-                                >
+                                <div className="mt-auto flex items-center gap-2 text-blue-600 font-bold group-hover:gap-3 transition-all">
                                   查看对应页面 <ChevronRight size={18} />
-                                </button>
+                                </div>
                               ) : (
                                 <div className="mt-auto flex items-center gap-2 text-slate-400 text-xs font-bold uppercase tracking-widest">
                                   <ShieldCheck
@@ -1122,7 +1120,7 @@ export default function App() {
                                   按设备入口查看
                                 </div>
                               )}
-                            </div>
+                            </button>
                           );
                         })}
                       </div>
