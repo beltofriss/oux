@@ -801,16 +801,15 @@ const Footer = ({
             © {currentYear} 欧易下载入口.
             常用访问与安装信息整理，仅限技术交流与参考。
           </p>
-          <div className="flex gap-4 md:gap-8 text-[9px] text-slate-300 font-bold uppercase tracking-widest">
-            <span className="flex items-center gap-1">
-              <Shield size={10} className="text-blue-400" /> Access Notes
-            </span>
-            <span className="flex items-center gap-1">
-              <CheckCircle2 size={10} className="text-blue-400" /> User Check
-            </span>
-            <span className="flex items-center gap-1">
-              <Zap size={10} className="text-blue-400" /> Updated
-            </span>
+          <div className="flex items-center gap-4 text-xs font-bold text-slate-500">
+            <a
+              href="https://ouxpc.com/"
+              target="_blank"
+              rel="noopener"
+              className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
+            >
+              欧意 OKX 官方全功能导航 (ouxpc.com)
+            </a>
           </div>
         </div>
       </div>
