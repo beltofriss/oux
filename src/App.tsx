@@ -810,6 +810,22 @@ const Footer = ({
             >
               欧意 OKX 官方全功能导航 (ouxpc.com)
             </a>
+            <a
+              href="https://oyweb.net/"
+              target="_blank"
+              rel="noopener"
+              className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
+            >
+              欧易web 官方网页版 (oyweb.net)
+            </a>
+            <a
+              href="https://oyipc.com/"
+              target="_blank"
+              rel="noopener"
+              className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
+            >
+              欧易 OKX 官方入口 (oyipc.com)
+            </a>
           </div>
         </div>
       </div>
