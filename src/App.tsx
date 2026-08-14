@@ -801,14 +801,13 @@ const Footer = ({
             © {currentYear} 欧易下载入口.
             常用访问与安装信息整理，仅限技术交流与参考。
           </p>
-          <div className="flex items-center gap-4 text-xs font-bold text-slate-500">
             <a
               href="https://ouxpc.com/"
               target="_blank"
               rel="noopener"
               className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
             >
-              欧意 OKX 网址入口导航 (ouxpc.com)
+              欧意 OKX 网址入口：ouxpc.com
             </a>
             <a
               href="https://oyweb.net/"
@@ -816,15 +815,7 @@ const Footer = ({
               rel="noopener"
               className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
             >
-              欧易 OKX 网页版登录入口 (oyweb.net)
-            </a>
-            <a
-              href="https://oyipc.com/"
-              target="_blank"
-              rel="noopener"
-              className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
-            >
-              欧易 OKX 官方入口 (oyipc.com)
+              欧易 OKX 网页版入口：oyweb.net
             </a>
           </div>
         </div>
