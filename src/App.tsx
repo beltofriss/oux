@@ -323,7 +323,7 @@ const Navbar = ({
             data-cta="true"
             className="bg-slate-900 text-white px-6 py-2.5 rounded-full text-sm font-bold hover:bg-black transition-all"
           >
-            {t("访问欧易OKX")}
+            {t("访问 OKX 平台")}
           </a>
         </div>
 
@@ -808,7 +808,7 @@ const Footer = ({
               rel="noopener"
               className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
             >
-              欧意 OKX 官方全功能导航 (ouxpc.com)
+              欧意 OKX 网址入口导航 (ouxpc.com)
             </a>
             <a
               href="https://oyweb.net/"
@@ -816,7 +816,7 @@ const Footer = ({
               rel="noopener"
               className="text-blue-600 hover:text-blue-800 transition underline underline-offset-4"
             >
-              欧易web 官方网页版 (oyweb.net)
+              欧易 OKX 网页版登录入口 (oyweb.net)
             </a>
             <a
               href="https://oyipc.com/"
@@ -1047,7 +1047,7 @@ export default function App() {
                             className="group-hover:translate-y-0.5 transition-transform"
                           />
                           {pageData.id === "ouyi-xiazai"
-                            ? "访问欧易OKX"
+                            ? "访问 OKX 平台"
                             : "欧易OKX入口"}
                         </button>
                         <button
@@ -1314,7 +1314,7 @@ export default function App() {
           data-cta="true"
           className="w-full bg-slate-900 hover:bg-black text-white font-bold py-3.5 rounded-lg flex items-center justify-center transition-colors shadow-lg"
         >
-          访问欧易OKX
+          访问 OKX 平台
         </button>
       </MobileStickyFooter>
     </div>
